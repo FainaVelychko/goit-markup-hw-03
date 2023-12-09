@@ -100,7 +100,8 @@ img {
   display: flex;
   gap: 40px;
 }
-.contacts-link {
+.contacts-link,
+.nav-link {
   display: block;
   padding: 24px 0;
 }
