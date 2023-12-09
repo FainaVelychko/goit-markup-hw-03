@@ -23,15 +23,22 @@ h2,
 h3,
 h4 {
   color: #2e2f42;
+  margin: 0;
 }
 
 a {
   text-decoration: none;
-  color: currentcolor;
+  color: currentColor;
 }
 
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0;
 }
 
 /* .header {
