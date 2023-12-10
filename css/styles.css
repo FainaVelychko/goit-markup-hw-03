@@ -67,8 +67,10 @@ img {
 }
 .header-nav {
   display: flex;
-  gap: 76px;
   align-items: center;
+}
+.header-logo {
+  margin-right: 76px;
 }
 .logo {
   font-family: 'Raleway', sans-serif;
@@ -247,7 +249,7 @@ img {
   color: #f4f4fd;
   max-width: 264px;
 }
-.logo.footer {
+.footer-logo {
   display: inline-block;
-  margin-bottom: 16px;
+  margin-bottom: 18px;
 }
